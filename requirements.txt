@@ -1,0 +1,7 @@
+scikit-learn
+scipy
+flask
+sentencepiece==0.1.99
+huggingface-hub
+torch
+transformers
